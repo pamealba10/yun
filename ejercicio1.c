@@ -1,4 +1,5 @@
 #include <stdlib.h>
+/*Codigo de C para la materia de Estructuras*/
 #include <stdio.h>
 typedef struct _nodo {
  int valor;
@@ -49,3 +50,4 @@ retornamos 0 */
  free(nodo);
  return v;
 }
+
